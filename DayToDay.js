@@ -8,3 +8,4 @@ console.log('October 14th very so tired but lets go!');
 console.log('October 15th Im very sad for my grandmother his feeling its very sad. but i trust in my god');
 console.log('October 16th Thinking about my life in my future but also in the respect.');
 console.log('October 17th A day very good but very less work but i feel blessed');
+console.log('October 18th Idk :( good but...');
