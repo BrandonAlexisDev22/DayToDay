@@ -10,3 +10,4 @@ console.log('October 16th Thinking about my life in my future but also in the re
 console.log('October 17th A day very good but very less work but i feel blessed');
 console.log('October 18th Idk :( good but...');
 console.log('October 19th I dont have energy, i feel so tired but i want to improve but the lazy is very strong');
+console.log('October 20th day of play football with my friends :D');
