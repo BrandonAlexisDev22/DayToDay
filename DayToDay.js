@@ -12,3 +12,4 @@ console.log('October 18th Idk :( good but...');
 console.log('October 19th I dont have energy, i feel so tired but i want to improve but the lazy is very strong');
 console.log('October 20th day of play football with my friends :D');
 console.log('October 21th wtf idk it passing for my head!')
+console.log('')
