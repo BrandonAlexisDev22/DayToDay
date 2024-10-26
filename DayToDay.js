@@ -14,3 +14,5 @@ console.log('October 20th day of play football with my friends :D');
 console.log('October 21th wtf idk it passing for my head!');
 console.log('October 22th i dont know');
 console.log('October 23th fun day with my friends but i did not work :(');
+console.log('October 24th mt is doneeeeeeeeeeeeeeeeeeeeeeee. ');
+console.log('October 25th maybe tired but i need following this path');
