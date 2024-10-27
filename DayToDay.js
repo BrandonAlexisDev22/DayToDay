@@ -16,3 +16,4 @@ console.log('October 22th i dont know');
 console.log('October 23th fun day with my friends but i did not work :(');
 console.log('October 24th mt is doneeeeeeeeeeeeeeeeeeeeeeee. ');
 console.log('October 25th maybe tired but i need following this path');
+console.log('October 26th working in the game, lets go!')
