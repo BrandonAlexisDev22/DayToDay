@@ -18,3 +18,4 @@ console.log('October 24th mt is doneeeeeeeeeeeeeeeeeeeeeeee. ');
 console.log('October 25th maybe tired but i need following this path');
 console.log('October 26th working in the game, lets go!');
 console.log('October 27th tired but lets go with ingeniatec');
+console.log('October 28th finishing the lab... the game')
