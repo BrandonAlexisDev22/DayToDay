@@ -20,3 +20,6 @@ console.log('October 26th working in the game, lets go!');
 console.log('October 27th tired but lets go with ingeniatec');
 console.log('October 28th finishing the lab... the game');
 console.log('October 29th a normal day but i feel tired! mttt')
+console.log('October 30th great day in ingeniatec but I lost a opportunity with a girl very beautifull!! greattttt');
+console.log('October 31th good day but its time to start the path');
+console.log('November 1th fxck day, what is this shit?');
