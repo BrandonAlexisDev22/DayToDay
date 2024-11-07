@@ -24,4 +24,5 @@ console.log('October 30th great day in ingeniatec but I lost a opportunity with 
 console.log('October 31th good day but its time to start the path');
 console.log('November 1th fxck day, what is this shit?');
 console.log('November 2th to 4th lets go with the process.....');
-console.log('November 5th so sooooooooooo...')
+console.log('November 5th so sooooooooooo...');
+console.log('November 6th I need to think things through...');
