@@ -32,3 +32,4 @@ console.log('November 19th love not boy love not hahahaha');
 console.log('November 20th hahaha trying new proyect');
 console.log('November 21th I feel so bad but I have to disappear...');
 console.log('November 25th Lets goooooo')
+console.log('December 1th Monk Mode day one good..')
