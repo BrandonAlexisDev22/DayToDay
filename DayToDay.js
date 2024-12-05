@@ -34,4 +34,5 @@ console.log('November 21th I feel so bad but I have to disappear...');
 console.log('November 25th Lets goooooo')
 console.log('December 1th Monk Mode day one good..')
 console.log('December 2th Monk mode rest...');
-console.log('December 3th just starting...')
+console.log('December 3th just starting...');
+console.log('December 4th I have a good day');
