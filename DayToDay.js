@@ -37,3 +37,4 @@ console.log('December 2th Monk mode rest...');
 console.log('December 3th just starting...');
 console.log('December 4th I have a good day');
 console.log('December 5th Great day yeah');
+console.log('December 6th this situation its hard but... good day.');
