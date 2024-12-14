@@ -43,4 +43,5 @@ console.log('December 8th good day haaha');
 console.log('December 9th other good day brooo');
 console.log('December 10th good dayyyy my god')
 console.log('December 11th god day broo');
-console.log('December 12th stfuff yeah')
+console.log('December 12th stfuff yeah');
+console.log('December 13th finishing the project... :D');
