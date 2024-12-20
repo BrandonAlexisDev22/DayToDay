@@ -49,3 +49,5 @@ console.log('December 14th maybe idk :(');
 console.log('December 15th nothing bad...');
 console.log('December 16th idk lets goooo');
 console.log('December 17th good day :)))');
+console.log('December 18th idk idk');
+console.log('December 19th good day but i dont feel good');
