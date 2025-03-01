@@ -62,3 +62,5 @@ console.lo("February 24th learning python agaih");
 console.log("February 25th good?");
 console.log("February 26th I feel so bad with my self image");
 console.log("February 27th goo day :))")
+console.log("February 28th god dayyy");
+console.log("March 1th thinking?????")
