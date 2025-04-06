@@ -97,3 +97,4 @@ console.log("April 1th bad decisions but I want a second chance to be better.")
 console.log("April 2th I'm scared but I want to move forward with my life, God give me strength.");
 console.log("April 3th :)")
 console.log("April 4th gdd day")
+console.log("April 5th develop new sft")
