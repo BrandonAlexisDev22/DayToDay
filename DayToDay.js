@@ -154,4 +154,4 @@ console.log("May 28th I want to feel better");
 console.log("May 29th god please care my grandmother please :(");
 console.log("May 30th gd dayy");
 console.log("June 1th nt bad")
-console.log("June 2 lets go")
+console.log("June 2 lets go prepare...");
