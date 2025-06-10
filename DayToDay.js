@@ -159,3 +159,6 @@ console.log("June 3th gd day ggggg");
 console.log("June 4th day with my grandmotherrr");
 console.log("June 5th gd day buddy")
 console.log("June 6th gd day jejeje")
+console.log("June 7th gs day");
+console.log("June 8th so soooo");
+console.log("June 9th i wnt rest");
