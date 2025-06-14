@@ -162,6 +162,7 @@ console.log("June 6th gd day jejeje")
 console.log("June 7th gs day");
 console.log("June 8th so soooo");
 console.log("June 9th i wnt rest");
-console.log("June 10th i feel love again .")
-console.log("June 11th gd day")
-console.log("June 12th interview...")
+console.log("June 10th i feel love again .");
+console.log("June 11th gd day");
+console.log("June 12th interview...");
+console.log("June 13th bad day, bad feeling but idk");
