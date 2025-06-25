@@ -172,4 +172,8 @@ console.log("June 16th gd day thank you god");
 console.log("June 17th thnks goddd for other day");
 console.log("June 18th thnk god for other day buddy")
 console.log("June 19th thnk gd for other day complishh")
-console.log("June 20th thnk god for other day and i can search this grl")
+console.log("June 20th thnk god for other day and i can search this grl");
+console.log("June 21th thnk god");
+console.log("June 22th thkns god for other day")
+console.log("June 23th day day day")
+console.log("June 24th god day buddy")
