@@ -184,3 +184,4 @@ console.log("June 28th ....")
 console.log('June 29th gd day');
 console.log('June 30th i fee so tried jajajajaja')
 console.log('July 1th start of objectives???')
+console.log("July 2th gd day ")
