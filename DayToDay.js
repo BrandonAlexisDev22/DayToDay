@@ -189,3 +189,4 @@ console.log("July 3th gd day, I'm left luv")
 console.log("July 4th gd day buttttt");
 console.log("July 5th dddd");
 console.log("July 6th gd day")
+console.log("July 7th gd day bddd")
