@@ -89,76 +89,80 @@ console.log("March 24th return returnnnnnn");
 console.log("March 25th exam approved");
 console.log("March 26th confuseD???");
 console.log("March 27th i feel in luv");
-console.log("March 28th study hard")
-console.log("March 29th upd gameeee??")
-console.log("March 30th gooooood")
-console.log("March 31th tkngg")
-console.log("April 1th bad decisions but I want a second chance to be better.")
-console.log("April 2th I'm scared but I want to move forward with my life, God give me strength.");
-console.log("April 3th :)")
-console.log("April 4th gdd day")
-console.log("April 5th develop new sft")
-console.log("April 6th gd day")
-console.log("April 7th develop Sena proyect :))")
-console.log("April 8th gd day")
-console.log("April 9th thnk about life and problems??")
-console.log("April 10th i want to sleep")
-console.log("April 11th tiredddd")
-console.log("April 12th rest day one")
-console.log("April 13th rest day two")
-console.log("April 14th thk in a new proyect NY-BARBER-APP")
-console.log("April 15th working in the new project NY-BARBER-APP")
-console.log("April 16th making the frontend of the NY-BARBER-APP")
-console.log("April 17th play football with friends")
-console.log("April 18th gd but and feel so bd")
-console.log("April 19th playing PES 2013")
-console.log("April 20th last day of rest???????????")
-console.log("April 21th gd day boodie")
-console.log("April 22th ???")
-console.log("April 23th thnks god")
-console.log("April 24th nothing nothing")
-console.log("April 25th :(")
-console.log("April 26th nothing")
-console.log("April 27th nothinggg")
-console.log("April 28th start remember javascript and start my learning with react and node js")
-console.log("April 29th gd day")
-console.log("April 30th finish month")
-console.log("May 1th gd day ")
-console.log("May 2th worst!!!?")
-console.log("May 3th Planning??")
-console.log("May 4th Starting.....")
-console.log("May 5th Beb bbter")
-console.log("May 6th thks gd")
-console.log("May 7th thnk gd for my family")
+console.log("March 28th study hard");
+console.log("March 29th upd gameeee??");
+console.log("March 30th gooooood");
+console.log("March 31th tkngg");
+console.log("April 1th bad decisions but I want a second chance to be better.");
+console.log(
+  "April 2th I'm scared but I want to move forward with my life, God give me strength."
+);
+console.log("April 3th :)");
+console.log("April 4th gdd day");
+console.log("April 5th develop new sft");
+console.log("April 6th gd day");
+console.log("April 7th develop Sena proyect :))");
+console.log("April 8th gd day");
+console.log("April 9th thnk about life and problems??");
+console.log("April 10th i want to sleep");
+console.log("April 11th tiredddd");
+console.log("April 12th rest day one");
+console.log("April 13th rest day two");
+console.log("April 14th thk in a new proyect NY-BARBER-APP");
+console.log("April 15th working in the new project NY-BARBER-APP");
+console.log("April 16th making the frontend of the NY-BARBER-APP");
+console.log("April 17th play football with friends");
+console.log("April 18th gd but and feel so bd");
+console.log("April 19th playing PES 2013");
+console.log("April 20th last day of rest???????????");
+console.log("April 21th gd day boodie");
+console.log("April 22th ???");
+console.log("April 23th thnks god");
+console.log("April 24th nothing nothing");
+console.log("April 25th :(");
+console.log("April 26th nothing");
+console.log("April 27th nothinggg");
+console.log(
+  "April 28th start remember javascript and start my learning with react and node js"
+);
+console.log("April 29th gd day");
+console.log("April 30th finish month");
+console.log("May 1th gd day ");
+console.log("May 2th worst!!!?");
+console.log("May 3th Planning??");
+console.log("May 4th Starting.....");
+console.log("May 5th Beb bbter");
+console.log("May 6th thks gd");
+console.log("May 7th thnk gd for my family");
 console.log("May 8th curly hair");
 console.log("May 9th Szr nearrrr");
-console.log("May 10th blsd thnk gd")
-console.log("May 11th mothers day - promise?.")
-console.log("May 12th god day buddy")
-console.log("May 13th so so so")
+console.log("May 10th blsd thnk gd");
+console.log("May 11th mothers day - promise?.");
+console.log("May 12th god day buddy");
+console.log("May 13th so so so");
 console.log("May 14th gd day");
-console.log("May 15th gd day thnk god for other day")
-console.log("May 16th Thank you goddddddddddd")
+console.log("May 15th gd day thnk god for other day");
+console.log("May 16th Thank you goddddddddddd");
 console.log("May 17th gd day");
 console.log("May 18th gd day");
 console.log("May 19th gd day");
-console.log("May 20th thnkinggg")
-console.log("May 21th gd day butty")
-console.log("May 22th thnk god for other day.00.")
-console.log("May 23th gd day")
-console.log("May 24th thnk god")
-console.log("May 25th what I do??????")
-console.log("May 26th gd day jajaja")
-console.log("May 27th gd day")
+console.log("May 20th thnkinggg");
+console.log("May 21th gd day butty");
+console.log("May 22th thnk god for other day.00.");
+console.log("May 23th gd day");
+console.log("May 24th thnk god");
+console.log("May 25th what I do??????");
+console.log("May 26th gd day jajaja");
+console.log("May 27th gd day");
 console.log("May 28th I want to feel better");
 console.log("May 29th god please care my grandmother please :(");
 console.log("May 30th gd dayy");
-console.log("June 1th nt bad")
+console.log("June 1th nt bad");
 console.log("June 2th lets go prepare...");
 console.log("June 3th gd day ggggg");
 console.log("June 4th day with my grandmotherrr");
-console.log("June 5th gd day buddy")
-console.log("June 6th gd day jejeje")
+console.log("June 5th gd day buddy");
+console.log("June 6th gd day jejeje");
 console.log("June 7th gs day");
 console.log("June 8th so soooo");
 console.log("June 9th i wnt rest");
@@ -170,55 +174,59 @@ console.log("June 14th i feel love x2 hahahah");
 console.log("June 15th i think in love again");
 console.log("June 16th gd day thank you god");
 console.log("June 17th thnks goddd for other day");
-console.log("June 18th thnk god for other day buddy")
-console.log("June 19th thnk gd for other day complishh")
+console.log("June 18th thnk god for other day buddy");
+console.log("June 19th thnk gd for other day complishh");
 console.log("June 20th thnk god for other day and i can search this grl");
 console.log("June 21th thnk god");
-console.log("June 22th thkns god for other day")
-console.log("June 23th day day day")
-console.log("June 24th god day buddy")
-console.log('June 25th reflextion day');
-console.log('June 26th gd day thank you god');
-console.log('June 27th loveeeeeeeeeeeeeeeeeeeeeeee')
-console.log("June 28th ....")
-console.log('June 29th gd day');
-console.log('June 30th i fee so tried jajajajaja')
-console.log('July 1th start of objectives???')
-console.log("July 2th gd day ")
-console.log("July 3th gd day, I'm left luv")
+console.log("June 22th thkns god for other day");
+console.log("June 23th day day day");
+console.log("June 24th god day buddy");
+console.log("June 25th reflextion day");
+console.log("June 26th gd day thank you god");
+console.log("June 27th loveeeeeeeeeeeeeeeeeeeeeeee");
+console.log("June 28th ....");
+console.log("June 29th gd day");
+console.log("June 30th i fee so tried jajajajaja");
+console.log("July 1th start of objectives???");
+console.log("July 2th gd day ");
+console.log("July 3th gd day, I'm left luv");
 console.log("July 4th gd day buttttt");
 console.log("July 5th dddd");
-console.log("July 6th gd day")
-console.log("July 7th gd day bddd")
-console.log("July 8th gd day")
-console.log('July 9th day oneeeeeeee');
+console.log("July 6th gd day");
+console.log("July 7th gd day bddd");
+console.log("July 8th gd day");
+console.log("July 9th day oneeeeeeee");
 console.log("July 10th day two, so so");
-console.log('July 11th gd day');
-console.log('July 12th day 1 project');
+console.log("July 11th gd day");
+console.log("July 12th day 1 project");
 console.log("July 13th project so tired");
-console.log('July 14th gd day nnnn');
-console.log('July 15th project with react js so hardd')
-console.log('July 16th so so interview but lets start in the process but i feel so tireed with my habits idk thnks gd');
-console.log('July 17th gd day');
-console.log('July 18th worst day bodddyy');
-console.log('July 19th gd day')
-console.log('July 20th worst day')
-console.log('July 21th worst')
-console.log('July 22th other day one starting my recover but, I feel, I can do it, its very easy');
-console.log('July 23th bad day definitiveeeeeeee')
-console.log('August 5th return of github');
-console.log("August 9th gd day")
-console.log("August 10th duhh")
-console.log("August 11th gd day bddy")
-console.log("August 14th gd day")
-cconsole.log('August 24th clash royale game')
-console.log('August 30th wtf with this month jajaj')
-console.log("Sep 19th feel in love")
-console.log("Sep 20th gd day")
-console.log("Sep 27th totally in feel in luv, thnks god")
-console.log("Oct 7th returning of lazy month and lazy brain?")  
-console.log("Oct 8th back back")
-console.log("Oct 9th developing API")
-console.log("Oct 10th finishhh")          
+console.log("July 14th gd day nnnn");
+console.log("July 15th project with react js so hardd");
+console.log(
+  "July 16th so so interview but lets start in the process but i feel so tireed with my habits idk thnks gd"
+);
+console.log("July 17th gd day");
+console.log("July 18th worst day bodddyy");
+console.log("July 19th gd day");
+console.log("July 20th worst day");
+console.log("July 21th worst");
+console.log(
+  "July 22th other day one starting my recover but, I feel, I can do it, its very easy"
+);
+console.log("July 23th bad day definitiveeeeeeee");
+console.log("August 5th return of github");
+console.log("August 9th gd day");
+console.log("August 10th duhh");
+console.log("August 11th gd day bddy");
+console.log("August 14th gd day");
+cconsole.log("August 24th clash royale game");
+console.log("August 30th wtf with this month jajaj");
+console.log("Sep 19th feel in love");
+console.log("Sep 20th gd day");
+console.log("Sep 27th totally in feel in luv, thnks god");
+console.log("Oct 7th returning of lazy month and lazy brain?");
+console.log("Oct 8th back back");
+console.log("Oct 9th developing API");
+console.log("Oct 10th finishhh");
 console.log("Oct 11th gd day with my family thnk god for the day");
-console.log("Oct 28th othe error fvck");          
+console.log("Oct 28th othe error fvck");
