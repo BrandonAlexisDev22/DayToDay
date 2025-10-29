@@ -220,4 +220,5 @@ console.log("Oct 7th returning of lazy month and lazy brain?")
 console.log("Oct 8th back back")
 console.log("Oct 9th developing API")
 console.log("Oct 10th finishhh")          
-console.log("Oct 11th gd day with my family thnk god for the day")          
+console.log("Oct 11th gd day with my family thnk god for the day");
+console.log("Oct 28th othe error fvck");          
