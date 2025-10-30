@@ -219,7 +219,7 @@ console.log("August 9th gd day");
 console.log("August 10th duhh");
 console.log("August 11th gd day bddy");
 console.log("August 14th gd day");
-cconsole.log("August 24th clash royale game");
+console.log("August 24th clash royale game");
 console.log("August 30th wtf with this month jajaj");
 console.log("Sep 19th feel in love");
 console.log("Sep 20th gd day");
@@ -230,3 +230,4 @@ console.log("Oct 9th developing API");
 console.log("Oct 10th finishhh");
 console.log("Oct 11th gd day with my family thnk god for the day");
 console.log("Oct 28th othe error fvck");
+console.log("Oct 29th dy 1")
