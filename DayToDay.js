@@ -230,4 +230,5 @@ console.log("Oct 9th developing API");
 console.log("Oct 10th finishhh");
 console.log("Oct 11th gd day with my family thnk god for the day");
 console.log("Oct 28th othe error fvck");
-console.log("Oct 29th dy 1")
+console.log("Oct 29th dy 1");
+console.log("Nov 6th lets go");
