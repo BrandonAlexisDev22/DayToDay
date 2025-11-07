@@ -231,4 +231,6 @@ console.log("Oct 10th finishhh");
 console.log("Oct 11th gd day with my family thnk god for the day");
 console.log("Oct 28th othe error fvck");
 console.log("Oct 29th dy 1");
-console.log("Nov 6th lets go");
+console.log("Nov 5th ...");
+console.log("Nov 6th lets go (adding) waiting forrr....");
+
