@@ -233,5 +233,5 @@ console.log("Oct 28th othe error fvck");
 console.log("Oct 29th dy 1");
 console.log("Nov 5th ...");
 console.log("Nov 6th lets go (adding) waiting forrr....");
-console.log("Nov 16th lets gooooooooooooooooooooooo")
-
+console.log("Nov 16th lets gooooooooooooooooooooooo");
+console.log("Nov 17th gd day soso");
